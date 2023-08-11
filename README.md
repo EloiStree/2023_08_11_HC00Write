@@ -4,12 +4,16 @@ I forget each time how to connect HC05-06 to my Arduino X. So let's make a wiki 
 
 
 
+![image](https://github.com/EloiStree/2023_08_11_HC00Write/assets/20149493/f58ed9b4-6ff8-4ddb-a2eb-fa0eb34220ab)
+![image](https://github.com/EloiStree/2023_08_11_HC00Write/assets/20149493/4e82e3b3-ad89-4014-96ab-844e8a41d40c)
+![image](https://github.com/EloiStree/2023_08_11_HC00Write/assets/20149493/cbf93574-5263-4349-9874-12207095b64e)
 
 
 
 ## How to connect HC05-HC06 with Raspberry Pi Pico
 
-https://github.com/EloiStree/ToStudyNext/issues/1
+- https://github.com/EloiStree/ToStudyNext/issues/1
+- https://www.martyncurrey.com/connecting-2-arduinos-by-bluetooth-using-a-hc-05-and-a-hc-06-pair-bind-and-link/
 
 
 
